@@ -1,8 +1,40 @@
-# React + Vite
+# Spotify 2.0 Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend-only music player app, inspired by Spotify, built with React.js and local data for demonstration.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Home/Discover:** Mock "Top Charts".
+
+* **Search:** Local mock data for songs/artists.
+
+* **Music Player:** Playback controls (play/pause, next/previous, volume, progress).
+
+* **Browse:** Dummy data for Playlists, Albums, & Genres.
+
+## 🚧 Under Development
+
+* Create Playlist functionality.
+
+* Full responsiveness.
+
+* Integration with comprehensive music sources for dynamic data.
+
+## 🚀 Tech
+
+* React.js
+
+* Redux
+
+## 🏃‍♀️ Get Started
+
+1. Clone repo: `git clone https://github.com/your-username/spotify-clone.git`
+
+2. `cd spotify-clone`
+
+3. Run in a React development environment.
+
+## 🤝 Contributing
+
+Contributions welcome!
+=
