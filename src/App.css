@@ -1,16 +1,16 @@
 /* App.css */
 
-/* Reset and Base Styles */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* --- NEW ADDITION: CSS Variables for better maintainability and theming --- */
+
 :root {
   --primary-green: #1db954;
-  --primary-green-rgb: 29, 185, 84; /* Added for rgba usage */
+  --primary-green-rgb: 29, 185, 84; 
 
   --darkest-bg: #000;
   --dark-bg: #121212;
@@ -34,7 +34,7 @@
   --sidebar-width: 280px; /* Default sidebar width */
 }
 
-/* --- END NEW ADDITION --- */
+
 
 
 body {
@@ -54,14 +54,14 @@ body {
 .app-container {
   display: flex;
   flex: 1;
-  min-height: 0; /* Important for flex children to scroll */
+  min-height: 0;
 }
 
 .main-container {
   flex: 1;
   display: flex;
   flex-direction: column;
-  min-width: 0; /* Allow content to shrink */
+  min-width: 0; 
 }
 
 /* Sidebar Styles */
