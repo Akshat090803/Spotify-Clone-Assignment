@@ -34,7 +34,4 @@ A frontend-only music player app, inspired by Spotify, built with React.js and l
 
 3. Run in a React development environment.
 
-## 🤝 Contributing
 
-Contributions welcome!
-=
