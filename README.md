@@ -2,6 +2,8 @@
 
 A frontend-only music player app, inspired by Spotify, built with React.js and local data for demonstration.
 
+---
+
 ## ✨ Features
 
 * **Home/Discover:** Mock "Top Charts".
@@ -12,19 +14,15 @@ A frontend-only music player app, inspired by Spotify, built with React.js and l
 
 * **Browse:** Dummy data for Playlists, Albums, & Genres.
 
-## 🚧 Under Development
-
-* Create Playlist functionality.
-
-* Full responsiveness.
-
-* Integration with comprehensive music sources for dynamic data.
+---
 
 ## 🚀 Tech
 
 * React.js
 
 * Redux
+
+---
 
 ## 🏃‍♀️ Get Started
 
