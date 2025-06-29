@@ -7,11 +7,8 @@ A frontend-only music player app, inspired by Spotify, built with React.js and l
 ## ✨ Features
 
 * **Home/Discover:** Mock "Top Charts".
-
 * **Search:** Local mock data for songs/artists.
-
 * **Music Player:** Playback controls (play/pause, next/previous, volume, progress).
-
 * **Browse:** Dummy data for Playlists, Albums, & Genres.
 
 ---
@@ -19,17 +16,31 @@ A frontend-only music player app, inspired by Spotify, built with React.js and l
 ## 🚀 Tech
 
 * React.js
-
 * Redux
 
 ---
 
 ## 🏃‍♀️ Get Started
 
-1. Clone repo: `git clone https://github.com/your-username/spotify-clone.git`
-
-2. `cd spotify-clone`
-
+1. Clone repo: `git clone https://github.com/Akshat090803/Spotify-Clone-Assignment.git`
+2. `cd Spotify-Clone-Assignment`
 3. Run in a React development environment.
 
+---
 
+## 📸 UI Screenshots
+
+### Home
+![Home Page](./public/sp-home.png)
+
+### Search
+![Search Page](./public/sp-search.png)
+![Search Page Alternate](./public/sp-search-2.png)
+
+### Genres
+![Genres Page](./public/sp-genre.png)
+![Genres Page Alternate](./public/sp-genre2.png)
+
+### Playlists
+![Playlists Page](./public/sp-playlist.png)
+![Playlists Page Alternate](./public/sp-playlist2.png)
