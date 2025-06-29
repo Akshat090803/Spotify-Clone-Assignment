@@ -53,8 +53,8 @@ A modern, frontend-only music player app inspired by Spotify, crafted with React
 ---
 
 ### 🎸 Genres
-![Genres Page](./public/sp-genre.png)  
 ![Genres Page Alternate](./public/sp-genre2.png)
+![Genres Page](./public/sp-genre.png)  
 
 ---
 
